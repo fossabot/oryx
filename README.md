@@ -311,3 +311,8 @@ a new line of CSV data that does not contain a value for the identifier column. 
 [![Build Status](https://travis-ci.org/cloudera/oryx.png?branch=master)](https://travis-ci.org/cloudera/oryx)
 [![Coverity](https://scan.coverity.com/projects/1925/badge.svg)](https://scan.coverity.com/projects/1925)
 [![codecov.io](https://codecov.io/github/cloudera/oryx/coverage.svg?branch=master)](https://codecov.io/github/cloudera/oryx?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Foryx.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Foryx?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Foryx.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Foryx?ref=badge_large)
